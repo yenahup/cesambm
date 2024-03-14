@@ -1,14 +1,14 @@
 <h3>CESAM (Conféderation des étudiant stagiaire Africain étrangés au Maroc)</h3>
 <p>
-  La CESAM est une conféderation régroupand différents pays Africain au Maroc. Cette confédération á pour objectif de consolidé les rélations entre les différent communauté africain au maroc, promouvoir l'excéllence dans le milieur estudiantine. Elle est toujours á l'écoute des bésoins de étudiant Africain au Maroc.
+  La CESAM est une conféderation régroupand différents pays Africain au Maroc. Cette confédération á pour objectif de consolidé les rélations entre les différent communauté africain au maroc, promouvoir l'excéllence dans le milieu estudiantin. Elle est toujours á l'écoute des besoins des étudiant Africain au Maroc.
 </p>
 <h4>Objectif du projet</h4>
 <p>
-  Dans le but de facilité les actions mener pas cette confédération, nous avons pour mission de développer une application destiné á la CESAM et sa communauté qui va facilité la communication entre ces derniers et les opérations de la CESAM.
+  Dans le but de facilité les actions mener pas cette confédération, nous avons pour mission de développer une application destiné á la CESAM et sa communauté qui va facilité la communication entre ces derniers et de gérer de manière efficace opérations de la CESAM.
 </p>
 <h4>Les differents aspect</h4>
 <p>
-  <em>Voici quelques aspect que l'application tient compte</em>
+  <em>Voici quelques aspect que l'application couvrira</em>
   <ul>
     <li>
       <h5>Gestion de different membre de la conféderation</h5>
