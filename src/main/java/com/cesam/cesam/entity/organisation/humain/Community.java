@@ -168,7 +168,4 @@ public class Community {
 	public void setAdhesions(List<Adhesion> adhesions) {
 		this.adhesions = adhesions;
 	}
-    
-    
-    
 }

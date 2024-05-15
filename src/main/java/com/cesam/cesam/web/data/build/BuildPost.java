@@ -29,7 +29,7 @@ public class BuildPost {
 	
 	public static Post buildPost(PostRequest postRequest) {
 		Post post = new Post();
-		post.setDateCreation(postR);
+		post.setDateCreation(postRequest.getDatePost());
 		return post;
 	}
 }
