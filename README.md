@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Fima project
 
 Ce projet vise à développer un système d'information pour la CESAM.
@@ -33,3 +32,7 @@ Pour mieux contribuer sur ce projet,ces outils sont nécessaire.
 #### Les issues
 
 Les différents problèmes rencontré dans sont présentés dans la partie issues
+
+#### Form
+
+Joignez notre communauté pour discuter de tous sujet ayant rapport avec le projet. Posez vos questions, obtenez de l'aide, partager vos idées. Vous pouvez joindre notre communauté sur github ou sur google groupe
