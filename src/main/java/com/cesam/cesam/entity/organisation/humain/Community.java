@@ -24,6 +24,9 @@ import lombok.Data;
 @Data
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class Community {
+	/*
+	* This class represent a community in the confederation
+	* */
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "community_id")

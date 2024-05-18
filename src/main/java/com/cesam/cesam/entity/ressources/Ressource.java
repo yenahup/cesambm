@@ -19,7 +19,9 @@ import lombok.Data;
 @Table(name = "ressources")
 @Data
 public class Ressource {
-
+	/*
+	 * This class represent Resource
+	 * */
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ressources_id")

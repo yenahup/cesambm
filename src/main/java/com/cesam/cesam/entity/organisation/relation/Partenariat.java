@@ -18,7 +18,9 @@ import lombok.Data;
 @Table(name = "partenariats")
 @Data
 public class Partenariat {
-
+	/*
+	 * This class represent Partner of the confederation
+	 * */
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "partenariat_id")

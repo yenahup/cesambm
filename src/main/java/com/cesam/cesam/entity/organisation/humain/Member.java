@@ -31,7 +31,9 @@ import lombok.Data;
 @Table(name = "members")
 @Data
 public class Member {
-
+	/*
+	* This class represent a Member in the community
+	* */
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "member_id")

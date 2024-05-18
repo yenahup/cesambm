@@ -18,7 +18,9 @@ import lombok.Data;
 @Table(name = "laureats")
 @Data
 public class Laureat {
-
+	/*
+	 * This class represent gratuated
+	 * */
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "laureat_id")
@@ -54,27 +56,22 @@ public class Laureat {
 	public Laureat() {
 		// TODO Auto-generated constructor stub
 	}
-
-
+	
 	public Long getLaureat_id() {
 		return laureat_id;
 	}
-
 
 	public void setLaureat_id(Long laureat_id) {
 		this.laureat_id = laureat_id;
 	}
 
-
 	public Member getMember() {
 		return member;
 	}
 
-
 	public void setMember(Member member) {
 		this.member = member;
 	}
-
 
 	public Date getDateLaureat() {
 		return dateLaureat;
