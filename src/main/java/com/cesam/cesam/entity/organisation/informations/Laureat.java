@@ -56,7 +56,7 @@ public class Laureat {
 	public Laureat() {
 		// TODO Auto-generated constructor stub
 	}
-	
+
 	public Long getLaureat_id() {
 		return laureat_id;
 	}
