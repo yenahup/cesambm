@@ -22,7 +22,7 @@ Ce projet est ouvert á tout ceux qui désire contribué. Différent profile son
 
 #### Documentation
 
-Vous pouvez consulter toutes les documentations sur ce projet par ce lien
+Vous pouvez consulter tous les documentations sur ce projet  [ici](https://github.com/yenahup/fima/tree/master/Documents)
 
 #### Technologies utilisées
 
@@ -35,4 +35,4 @@ Les différents problèmes rencontré dans sont présentés dans la partie issue
 
 #### Form
 
-Joignez notre communauté pour discuter de tous sujet ayant rapport avec le projet. Posez vos questions, obtenez de l'aide, partager vos idées. Vous pouvez joindre notre communauté sur github ou sur google groupe
+Joignez notre communauté pour discuter de tous sujet ayant rapport avec le projet. Posez vos questions, obtenez de l'aide, partager vos idées. Joignez la communauté pour [ici](https://forms.gle/LwmkyjaaNNpfvW1y6)
